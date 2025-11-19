@@ -32,12 +32,13 @@ You Win screen
 Automatic restart function
 
 🛠️ Tech Stack
-Component	Technology
-Game Engine	Pygame
-Gesture Detection	MediaPipe Hands
-Webcam Input	OpenCV
-UI Popups	Tkinter
-Language	Python
+Component	            Technology
+Game Engine	          Pygame
+Gesture Detection	    MediaPipe Hand
+Webcam Input	        OpenCV
+UI Popups	            Tkinter
+Language	            Python
+
 🕹 Controls (Gesture-Based)
 Gesture	Action
 Hand moves Left	Move player left
